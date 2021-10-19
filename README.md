@@ -1,5 +1,11 @@
 ### Hi there, Welcome to my GitHub profile
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-vefra&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-vefra)](https://github.com/c-vefra/github-readme-stats)
+
+
+
 <!--
 **c-vefra/c-vefra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
