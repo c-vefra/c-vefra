@@ -1,7 +1,7 @@
 ## Hi there, I'm César, Welcome to my GitHub profile
 
 
-I am a software developer with engineering background. I have knowledge in the Frontend and the Backend side with JavaScript and I love learning new thing each day.
+I am a network engineer pasionated about software development. I have knowledge in the Frontend with JavaScript and in the Backend side with JavaScript and also with Python. I love learning new thing each day.
 
 Some of the technologies I use...
 
